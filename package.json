@@ -1,0 +1,14 @@
+{
+  "name": "expresskoa",
+  "version": "1.0.0",
+  "description": "Funz",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
